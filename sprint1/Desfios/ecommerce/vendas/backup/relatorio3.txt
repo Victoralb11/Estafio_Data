@@ -1,0 +1,14 @@
+2024/10/04 15:27
+21/04/2024
+05/05/2024
+id,produto,quantidade,preço,data
+1,O Exorcista (DVD),10,29.90,21/04/2024
+2,Psicose (Blu-ray),8,49.90,22/04/2024
+3,It: A Coisa (DVD),15,34.90,23/04/2024
+4,Hereditário (Blu-ray),7,54.90,24/04/2024
+5,O Iluminado (DVD),12,39.90,25/04/2024
+6,Corrente do Mal (Blu-ray),6,44.90,26/04/2024
+7,Invocação do Mal (DVD),14,29.90,27/04/2024
+8,A Bruxa (Blu-ray),9,59.90,28/04/2024
+9,Atividade Paranormal (DVD),11,24.90,29/04/2024
+total de vendas feitas: 15

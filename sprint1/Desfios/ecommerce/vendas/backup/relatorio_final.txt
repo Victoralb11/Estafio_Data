@@ -1,0 +1,60 @@
+ - Relatório 1 - 
+2024/10/02 15:27
+01/01/2023
+31/01/2023
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+total de vendas feitas: 66
+ - Relatório 2  - 
+2024/10/03 15:27
+01/04/2024
+20/04/2024
+id,produto,quantidade,preço,data
+1,smartphone,2,1999.90,01/04/2024
+2,notebook,5,3499.00,02/04/2024
+3,tablet,3,1500.00,03/04/2024
+4,monitor 4K,20,999.00,04/04/2024
+5,impressora 3D,8,2500.00,05/04/2024
+6,câmera DSLR,7,4000.00,06/04/2024
+7,drone,6,2300.00,07/04/2024
+8,smartwatch,4,1200.00,08/04/2024
+9,óculos VR,12,899.00,09/04/2024
+total de vendas feitas: 20
+ - Relatório 3 - 
+2024/10/04 15:27
+21/04/2024
+05/05/2024
+id,produto,quantidade,preço,data
+1,O Exorcista (DVD),10,29.90,21/04/2024
+2,Psicose (Blu-ray),8,49.90,22/04/2024
+3,It: A Coisa (DVD),15,34.90,23/04/2024
+4,Hereditário (Blu-ray),7,54.90,24/04/2024
+5,O Iluminado (DVD),12,39.90,25/04/2024
+6,Corrente do Mal (Blu-ray),6,44.90,26/04/2024
+7,Invocação do Mal (DVD),14,29.90,27/04/2024
+8,A Bruxa (Blu-ray),9,59.90,28/04/2024
+9,Atividade Paranormal (DVD),11,24.90,29/04/2024
+total de vendas feitas: 15
+ - Relatório 4 - 
+2024/10/05 15:27
+01/04/2024
+14/04/2024
+id,produto,quantidade,preço,data
+1,Teclado Mecânico RGB,10,299.90,01/04/2024
+2,Mouse Gamer,8,199.90,02/04/2024
+3,Monitor Full HD,12,999.00,03/04/2024
+4,Placa de Vídeo GTX 1660,5,1499.00,04/04/2024
+5,SSD 1TB,15,599.90,05/04/2024
+6,Memória RAM 16GB DDR4,20,399.90,06/04/2024
+7,Processador Intel Core i7,7,1999.00,07/04/2024
+8,Placa-mãe ATX,6,850.00,08/04/2024
+9,Headset Gamer,9,250.00,09/04/2024
+total de vendas feitas: 14
