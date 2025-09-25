@@ -1,0 +1,55 @@
+Id_orcamento,Data_ano,Nome_unidade,Nome_programa,Nome_acao,Dotacao_atual,Empenhado,Liquidado,Pago,Maior_que_media
+118,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Formação de Astronautas,R$ 11950000,11950000,11950000,11950000,True
+105,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Complementação da Infra-Estrutura Geral do Centro de Lançamento de Alcântara,R$ 21500000,21509426,21509426,11779411,True
+103,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Participação Brasileira no Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS,R$ 78122500,78033830,78033830,46219753,True
+99,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 7344506,7342084,7342084,6754450,True
+104,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Participação Brasileira na Estação Espacial Internacional - ISS,R$ 5826000,5626000,5626000,5626000,True
+115,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento de Veículos Lançadores de Satélites,R$ 22485560,22533070,22533070,6108144,True
+114,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento e Lançamento de Satélites de Aplicação,R$ 17006500,17004561,17004561,15707599,True
+92,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Reconstrução da Torre Móvel de Integração do Sítio do Veículo Lançador de Satélite,R$ 7650000,7650000,7650000,7650000,True
+117,2005,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento e Lançamento de Satélites de Sensoriamento Remoto com Imageador Radar,R$ 5785000,5784267,5784267,5328226,True
+164,2007,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Funcionamento da Infra-Estrutura de Apoio a Satélites,R$ 7000000,6974386,4618552,4618083,True
+169,2007,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Participação Brasileira no Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS,R$ 93355000,93302156,56613580,56585593,True
+156,2007,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento de Satélites de Sensoriamento Remoto,R$ 14184400,13474796,11945604,10692191,True
+165,2007,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 11272839,8517389,8237868,8211819,True
+189,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Amazônia-1,R$ 10800000,10782258,8973914,8966608,True
+204,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,"Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados",R$ 6772500,6755533,5608149,5600389,True
+191,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-4,R$ 7200000,7193860,5341196,5339656,True
+199,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 11036875,9984818,7271477,7271477,True
+200,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Funcionamento da Infra-Estrutura de Apoio às Atividades Espaciais,R$ 14242574,14187201,4679994,4660918,True
+190,2008,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-3,R$ 47280786,47280188,40256333,40010834,True
+222,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-3,R$ 56998839,56992553,51701036,51689971,True
+221,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Amazônia-1,R$ 30800000,30799923,28936607,28931584,True
+239,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento de Veículos Lançadores de Satélites,R$ 31706054,27948800,4817377,4817377,True
+234,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,"Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados",R$ 7035000,7032130,5250461,5247092,True
+220,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite de Sensoriamento Remoto com Imageador Radar - MAPSAR,R$ 7000000,6999937,6991877,6991877,True
+223,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-4,R$ 7000000,6999684,6605450,6605450,True
+216,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Implantação do Centro Espacial de Alcântara - CEA,R$ 100000000,92681934,6051881,6027256,True
+230,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 11042427,10956554,7826117,7826117,True
+231,2009,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Funcionamento da Infra-Estrutura de Apoio às Atividades Espaciais,R$ 17684835,15622543,5791228,5702462,True
+261,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Funcionamento da Infra-Estrutura de Apoio às Atividades Espaciais,R$ 22241229,21063377,6550417,6549247,True
+260,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 17207068,15595942,11965988,11965988,True
+251,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-3,R$ 67700000,67700000,40401759,40356409,True
+250,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Amazônia-1,R$ 40000000,39993824,16568950,16568950,True
+263,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,"Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados",R$ 11200000,11199444,7089208,7079208,True
+249,2010,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite de Sensoriamento Remoto com Imageador Radar - MAPSAR,R$ 8570000,8568359,5677544,5677544,True
+290,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Gestão e Administração do Programa,R$ 18939273,16407262,11231905,11231905,True
+291,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Funcionamento da Infraestrutura de Apoio às Atividades Espaciais,R$ 21464106,18698349,7463825,6540545,True
+280,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-3,R$ 54000000,52268088,22790262,21141897,True
+279,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Desenvolvimento do Satélite Amazônia-1,R$ 37144299,37075692,17838461,16929158,True
+274,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,Implantação do Complexo Espacial de Alcântara - CEA,R$ 39700000,39688851,27756529,27648569,True
+293,2011,Agência Espacial Brasileira,Nacional de Atividades Espaciais - Pnae,"Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados",R$ 11200000,10922626,5980567,5980567,True
+322,2012,Agência Espacial Brasileira,Política Espacial,"Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados",R$ 11200000,8482809,5076170,4606331,True
+310,2012,Agência Espacial Brasileira,Política Espacial,Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-4,R$ 52624098,31384697,24007889,23612827,True
+333,2012,Agência Espacial Brasileira,"Programa de Gestão e Manutenção do Ministério da Ciência, Tecnologia e Inovação",Administração da Unidade,R$ 17688025,11772534,6914008,6884423,True
+320,2012,Agência Espacial Brasileira,Política Espacial,Funcionamento e Atualização da Infraestrutura de Apoio a Veículos Espaciais,R$ 24684408,16714374,10313953,10173009,True
+327,2012,Agência Espacial Brasileira,Política Espacial,Desenvolvimento de Veículos Lançadores de Satélites,R$ 25557530,25404101,18536576,18276474,True
+308,2012,Agência Espacial Brasileira,Política Espacial,Desenvolvimento do Satélite Amazônia-1,R$ 40485500,29362415,17115293,16959557,True
+329,2012,Agência Espacial Brasileira,Política Espacial,Pesquisa e Desenvolvimento em Tecnologias Associadas a Veículos Espaciais,R$ 10000000,6823157,4698233,4698233,True
+304,2012,Agência Espacial Brasileira,Política Espacial,Implantação do Complexo Espacial de Alcântara - CEA,R$ 140577940,111986295,24287934,24287444,True
+339,2013,Agência Espacial Brasileira,Política Espacial,Implantação do Complexo Espacial de Alcântara - CEA,R$ 90699455,86701211,25255620,25255620,True
+342,2013,Agência Espacial Brasileira,Política Espacial,Pesquisa e Desenvolvimento de Tecnologias para o Setor Espacial,R$ 38647000,35781404,21475947,21453401,True
+343,2013,Agência Espacial Brasileira,Política Espacial,Desenvolvimento e Lançamento de Satélites,R$ 87705598,86881697,37325746,37042210,True
+346,2013,Agência Espacial Brasileira,"Programa de Gestão e Manutenção do Ministério da Ciência, Tecnologia e Inovação",Administração da Unidade,R$ 16039629,14368812,9399114,9344923,True
+340,2013,Agência Espacial Brasileira,Política Espacial,"Desenvolvimento, Manutenção e Atualização da Infraestrutura Espacial",R$ 34162192,31628538,17227880,16793505,True
+341,2013,Agência Espacial Brasileira,Política Espacial,Desenvolvimento e Lançamento de Foguetes Suborbitais e de Veículos Lançadores de Satélites,R$ 28253078,26521060,25199516,24985413,True

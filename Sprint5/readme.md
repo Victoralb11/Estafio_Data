@@ -1,0 +1,3 @@
+# Sprint 5 
+
+ Nessa sprint, tive a oportunidade de colocar em prática alguns dos conhecimentos adquiridos nos cursos da AWS feitos em outras sprints. O objetivo principal foi desenvolver e implementar um processo eficiente para alimentar um bucket no serviço S3 da Amazon, utilizando apenas as permissões previamente configuradas no ambiente, Durante essa atividade támbem precisei colocar em prática os conhecimentos sobre manipulação de um banco de dados 
